@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mugil13/IMDB-Sentiment-Analysis/blob/main/IMDB_Reviews_2_0.ipynb)
+
 # 🎬 IMDB Movie Reviews - Sentiment Analysis
 
 This project performs sentiment analysis on IMDB movie reviews using several machine learning models, ensemble methods, and hyperparameter tuning techniques.
