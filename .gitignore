@@ -1,0 +1,16 @@
+*.csv
+*.tsv
+*.json
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+venv/
+*.egg-info/
+*.log
+.DS_Store
+*.h5
+*.pkl
+*.joblib
+*.nbconvert.ipynb
+.vscode/
