@@ -1,4 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mugil13/IMDB-Sentiment-Analysis/blob/main/IMDB_Reviews_2_0.ipynb)
+[![View on GCP](https://img.shields.io/badge/Live%20Demo-GCP-blue)](https://model1-456105.el.r.appspot.com/)
 
 # 🎬 IMDB Movie Reviews - Sentiment Analysis
 
@@ -43,3 +44,10 @@ git clone https://github.com/Mugil13/IMDB-Sentiment-Analysis.git
 cd IMDB-Sentiment-Analysis
 pip install -r requirements.txt
 jupyter notebook
+
+```
+
+## 🌐 Live Demo
+
+Check out the live deployed version of this project, using GCP here:  
+👉 [IMDB Sentiment Analysis on GCP](https://model1-456105.el.r.appspot.com/)
